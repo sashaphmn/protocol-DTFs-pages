@@ -5,7 +5,7 @@ Please follow the steps and guidelines below to ensure a smooth process.
 ## 1. Fork and Pull Request
 1. **Fork** this repository to your own GitHub account.
 2. **Create a new branch** in your forked repository. Use a naming convention that clearly indicates the project name you belong to, for example: projects/<project-name>
-3. Make your changes (see [What to Contribute](#what-to-contribute)).
+3. Make your changes (see [What to Contribute](#2.-what-to-contribute)).
 4. Submit a **Pull Request (PR)** from your branch to the main repository.
 
 ## 2. What to Contribute
